@@ -1,9 +1,8 @@
 -  Hi, I’m @blue-unit
--  I'm a college student
--  Pronouns: he/him
--  I’m interested in app and game development 
--  I’m currently learning C++ and Flutter. 
--  My other interests are SWE, DevOps and Cloud computing. 
+-  I'm a 2nd yead college student
+-  I’m interested in App Development 
+-  I’m currently learning Flutter & Backend Fundamentals. 
+-  My other interests are SWE & DevOps. 
 -  Reach me on: himansh.khadayat2006@gmail.com
 <!---
 blue-unit/blue-unit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
