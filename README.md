@@ -1,5 +1,5 @@
 -  Hi, I’m @blue-unit
--  I'm a 2nd yead college student
+-  I'm a 2nd year college student
 -  I’m interested in App Development 
 -  I’m currently learning Flutter & Backend Fundamentals. 
 -  My other interests are SWE & DevOps. 
