@@ -1,4 +1,4 @@
-# blue0-unit
+# blue-unit
 
 CSE 3rd year
 
